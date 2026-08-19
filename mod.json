@@ -1,17 +1,19 @@
 {
-	"geode": "$GEODE_VERSION",
-	"gd": {
-		"win": "2.2081",
-		"android": "2.2081",
-		"mac": "2.2081",
-		"ios": "2.2081"
-	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
-	"version": "$MOD_VERSION",
-	"developer": "$MOD_DEVELOPER",
-	"description": "$MOD_DESCRIPTION",
-	"dependencies": {
-		"geode.node-ids": ">=v1.23.3"
-	}
+    "geode": "2.0.0",
+    "gd": "2.2074",
+    "id": "tomy.custom_pi",
+    "name": "Custom Pi Mod",
+    "version": "v1.0.0",
+    "developer": "Tomy",
+    "description": "Modify the value of Pi used in game rotation calculations.",
+    "settings": {
+        "pi-value": {
+            "name": "Pi Value",
+            "description": "Changes the Pi constant used in rotation and physics calculations.",
+            "type": "float",
+            "default": 3.14159,
+            "min": 0.0,
+            "max": 10.0
+        }
+    }
 }
