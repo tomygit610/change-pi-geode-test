@@ -1,5 +1,5 @@
 {
-    "geode": "2.0.0",
+    "geode": "*",
     "gd": "2.2074",
     "id": "tomy.custom_pi",
     "name": "Custom Pi Mod",
