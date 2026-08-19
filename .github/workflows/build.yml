@@ -15,11 +15,11 @@ jobs:
         config:
           - name: Android
             os: ubuntu-latest
-            target: Android
+            target: Android32
 
           - name: Windows
             os: windows-latest
-            target: Windows
+            target: Win32
 
     name: Build ${{ matrix.config.name }}
     runs-on: ${{ matrix.config.os }}
