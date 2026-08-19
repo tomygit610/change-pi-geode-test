@@ -1,6 +1,6 @@
 {
-    "geode": "*",
-    "gd": "2.2074",
+    "geode": "3.0.0",
+    "gd": "*",
     "id": "tomy.custom_pi",
     "name": "Custom Pi Mod",
     "version": "v1.0.0",
