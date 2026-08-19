@@ -3,13 +3,13 @@
     "gd": "*",
     "id": "tomy.custom_pi",
     "name": "Custom Pi Mod",
-    "version": "v1.0.0",
+    "version": "1.0.0",
     "developer": "Tomy",
     "description": "Modify the value of Pi used in game rotation calculations.",
     "settings": {
         "pi-value": {
             "name": "Pi Value",
-            "description": "Changes the Pi constant used in rotation and physics calculations.",
+            "description": "Changes the Pi constant used in rotation calculations.",
             "type": "float",
             "default": 3.14159,
             "min": 0.0,
