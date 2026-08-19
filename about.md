@@ -1,3 +1,3 @@
-# Template Mod
+# Pi value changer
 
-Edit about.md to change this
+changes the pi value to whatever you want
