@@ -1,5 +1,5 @@
-# Template
-This is where she makes a mod.
+# Pi value changer
+just a pi value changer
 
 <img src="logo.png" width="150" alt="the mod's logo" />
 
